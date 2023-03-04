@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Jonathan!</h1>
-<h3 align="center">Front-end developer e Analista em TI.</h3>
+<h3 align="center">Front-end Developer e Analista em TI.</h3>
 
 - 🌱 Atualmente estou estudando e focado em desenvolvimento de sites e aplicações Web **HTML CSS3 JAVASCRIPT**
 
